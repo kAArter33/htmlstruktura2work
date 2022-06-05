@@ -1,0 +1,57 @@
+#container1 {
+    background-color: orange;
+    text-align: left;
+}
+
+#container2 {
+    background-color: rgb(120, 236, 120);
+    text-align: left;
+}
+
+#container3 {
+    background-color: aquamarine;
+    text-align: left;
+}
+
+#container4 {
+    background-color: grey;
+    height: 50px;
+    text-align: center;
+}
+
+.naglowek {
+    text-align: center;
+}
+
+li {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid red;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    overflow-wrap: break-all;
+    word-break: break-all;
+}
