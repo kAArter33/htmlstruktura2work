@@ -55,3 +55,9 @@ p {
     overflow-wrap: break-all;
     word-break: break-all;
 }
+li a{
+    padding:5px 10px;
+    /* background-color: aqua; */
+    border:1px  solid  aqua;
+    display: inline-block;
+}
